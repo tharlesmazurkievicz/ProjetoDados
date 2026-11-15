@@ -1,0 +1,6 @@
+Modelo,Melhores Hiperparâmetros,AUROC,F1-Score,Sensibilidade (Recall),Especificidade,Precisão,Acurácia
+Random Forest,"{'clf__max_depth': 6, 'clf__n_estimators': 100}",0.8423,0.6305,0.7914,0.7401,0.5239,0.7537
+Regressão Logística,{'clf__C': 0.1},0.8396,0.6138,0.7861,0.7198,0.5034,0.7374
+SVM,"{'clf__C': 0.5, 'clf__kernel': 'rbf'}",0.8272,0.6147,0.7594,0.743,0.5164,0.7473
+KNN,"{'clf__n_neighbors': 21, 'clf__weights': 'uniform'}",0.817,0.5914,0.8262,0.6502,0.4605,0.6969
+Árvore de Decisão,"{'clf__max_depth': 4, 'clf__min_samples_split': 10}",0.8166,0.6144,0.754,0.7469,0.5184,0.7488

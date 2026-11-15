@@ -1,0 +1,20 @@
+Atributo,Tipo,Teste,Estatística,p_value,Decisão
+Contract,Categórica,Qui-Quadrado (χ²),1111.7590543469473,9.186153682901536e-244,Mantida
+tenure,Numérica,ANOVA F-test,1007.5094314093408,9.437650217579097e-207,Mantida
+OnlineSecurity,Categórica,Qui-Quadrado (χ²),550.4373640942512,1.0112201882635045e-121,Mantida
+TechSupport,Categórica,Qui-Quadrado (χ²),522.1647164016912,1.4308069367289792e-115,Mantida
+TotalCharges,Numérica,ANOVA F-test,291.3448623664979,4.8768656896847016e-64,Mantida
+MonthlyCharges,Numérica,ANOVA F-test,271.57698976820154,6.760843117988469e-60,Mantida
+OnlineBackup,Categórica,Qui-Quadrado (χ²),229.4411227982062,7.892689417337437e-52,Mantida
+DeviceProtection,Categórica,Qui-Quadrado (χ²),190.68800363241678,2.2498631629724767e-43,Mantida
+SeniorCitizen,Categórica,Qui-Quadrado (χ²),133.4827656170315,7.089546081646486e-31,Mantida
+Dependents,Categórica,Qui-Quadrado (χ²),131.2715092077862,2.159539604878587e-30,Mantida
+PaperlessBilling,Categórica,Qui-Quadrado (χ²),104.97922422047361,1.2342317320100526e-24,Mantida
+Partner,Categórica,Qui-Quadrado (χ²),81.8577693882184,1.4624091492682525e-19,Mantida
+PaymentMethod,Categórica,Qui-Quadrado (χ²),59.24050679933937,1.3953184919314419e-14,Mantida
+MultipleLines,Categórica,Qui-Quadrado (χ²),9.735960147826932,0.0018069760075858719,Mantida
+InternetService,Categórica,Qui-Quadrado (χ²),9.715269302629721,0.001827432998814319,Mantida
+StreamingMovies,Categórica,Qui-Quadrado (χ²),8.357623536516828,0.003840725353043898,Mantida
+StreamingTV,Categórica,Qui-Quadrado (χ²),7.373234369291033,0.006620175693533165,Mantida
+gender,Categórica,Qui-Quadrado (χ²),0.2542970616723691,0.6140655052865054,Descartada
+PhoneService,Categórica,Qui-Quadrado (χ²),0.09294838905266173,0.7604618273699781,Descartada
